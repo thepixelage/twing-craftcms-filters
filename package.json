@@ -1,0 +1,25 @@
+{
+  "name": "twing-craftcms-filters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepixelage/twing-craftcms-filters.git"
+  },
+  "author": "Ron Lim <ron.lim@thepixelage.com> (https://www.thepixelage.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thepixelage/twing-craftcms-filters/issues"
+  },
+  "homepage": "https://github.com/thepixelage/twing-craftcms-filters#readme",
+  "dependencies": {
+    "twig-lexer": "npm:undefined@*"
+  },
+  "devDependencies": {
+    "twing": "^5.0.2"
+  }
+}
